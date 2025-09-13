@@ -5,6 +5,6 @@
   <body>
     <h1>Our Page</h1>
     <p>This Is Our First Texte</p>
-    <a href= "www.google.com">Google</a> 
+    <a href= "htpp://www.google.com">Google</a> 
   </body>
 </html>
